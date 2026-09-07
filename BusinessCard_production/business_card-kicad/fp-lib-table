@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nfc chip footprint")(type "KiCad")(uri "C:/Users/mateu/Downloads/LIB_NT2H1311F0DTL/NT2H1311F0DTL/KiCad/footprintnfc.pretty")(options "")(descr ""))
+  (lib (name "lcsc_businesscard_footprints")(type "KiCad")(uri "C:/Users/mateu/Documents/GitHub/CFC-Curiosity_Flight_ControllerV1/hardware/lib/lcsc/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "nfcfootprint")(type "KiCad")(uri "${KIPRJMOD}/nfc_chip-footrint.pretty")(options "")(descr ""))
+)

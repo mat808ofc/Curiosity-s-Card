@@ -1,0 +1,54 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-09-07T16:37:25+01:00*%
+%TF.ProjectId,business_card,62757369-6e65-4737-935f-636172642e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-09-07 16:37:25*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,EtchedComponent*%
+%ADD10C,0.300000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11C,1.208000*%
+%TD*%
+%TA.AperFunction,ViaPad*%
+%ADD12C,0.600000*%
+%TD*%
+%TA.AperFunction,Conductor*%
+%ADD13C,0.300000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,E$1*%
+X189070000Y-133770000D02*
+X189070000Y-138270000D01*
+%TD*%
+D11*
+%TO.P,E$1,*%
+%TO.N,/ANTENNA_LA*%
+X187070000Y-138270000D03*
+%TO.P,E$1,P$1*%
+%TO.N,/ANTENNA_LB*%
+X189070000Y-138270000D03*
+%TO.P,E$1,P$3*%
+%TO.N,N/C*%
+X189070000Y-133770000D03*
+%TD*%
+D12*
+%TO.N,/ANTENNA_LA*%
+X182840000Y-140160000D03*
+%TD*%
+D13*
+%TO.N,/ANTENNA_LA*%
+X184730000Y-138270000D02*
+X182840000Y-140160000D01*
+X187070000Y-138270000D02*
+X184730000Y-138270000D01*
+%TD*%
+M02*
