@@ -32,7 +32,7 @@ My biggest challenge was understanding the math and physics for the LED, it seem
 | U1 (NXP NT3H2111W0FHKH)           |  NT3H2111W0FHKH             |  2         |    $1.2324       |    https://www.lcsc.com/pt/product-detail/C710403.html?s_z=n_q_NT3H2111W0FHKH       | JLCPCB      |
 | Total: $3,0869                    |
 
-JLCPCB quote for assembly of 2 boards + shipping (Global Standard Direct Line: $8.48) with -$10 coupon: $26.76
+JLCPCB quote for assembly of 2 boards + shipping (Global Standard Direct Line: $8.48) + components with -$10 coupon: $26.76
 <img width="1397" height="486" alt="{DEB36AE8-D00F-4259-A287-6ED29371B2AF}" src="https://github.com/user-attachments/assets/78debaf0-6e6f-4810-a422-83814d936cb9" />
 
 (You can find the excel full BOM file in the project files)
