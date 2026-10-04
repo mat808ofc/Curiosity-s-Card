@@ -35,6 +35,8 @@ My biggest challenge was understanding the math and physics for the LED, it seem
 JLCPCB quote for assembly of 2 boards + shipping (Global Standard Direct Line: $8.48) with -$10 coupon: $26.76
 <img width="1397" height="486" alt="{DEB36AE8-D00F-4259-A287-6ED29371B2AF}" src="https://github.com/user-attachments/assets/78debaf0-6e6f-4810-a422-83814d936cb9" />
 
+(You can find the excel full BOM file in the project files)
+
 # Grand Total: $26.76
 
 ### Extras:
