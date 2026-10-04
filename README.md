@@ -24,11 +24,18 @@ I haven't done projects for quite a long time because I was exhausted from it si
 My biggest challenge was understanding the math and physics for the LED, it seemed super confusing at first but now I get it, and it makes a lot of sense. I also found it hard to understand the nfc chip and tag, but I ended up figuring it out.
 
 ### BOM:
-| Name            | Purpose                      | Cost (USD) | Qty | Total (USD) | Link                         | Distributor |
-|-----------------|-----------------------------|------------|-----|-------------|------------------------------|-------------|
-| PCBA (5 boards)  | The business card itself | $29.17       | 1   | $29.17        | https://www.jlcpcb.com/     | JLCPCB     |
+| Part                              | MFR.Part #                  | Qty        | Total Cost (USD) |  Link to part (lcsc)                                                                | Distributor |
+|-----------------------------------|-----------------------------|------------|------------------|-------------------------------------------------------------------------------------|-------------|
+| C1 (200nf 0603 capacitor)         |  0603B204K160CT             |  20        |    $0.9140       |    https://www.lcsc.com/pt/product-detail/C3833176.html?s_z=n_q_0603B204K160CT      | JLCPCB      |
+| D1 (TLMS1000 0603 LED)            |  TLMS1000-GS15              |  5         |    $0.8605       |    https://www.lcsc.com/pt/product-detail/C23070302.html?s_z=n_q_TLMS1000-GS15      | JLCPCB      |
+| R1 (130Ω 0402 resistor)           |  RC0402FR-07130RL           |  20        |    $0.0800       |    https://www.lcsc.com/pt/product-detail/C477610.html?s_z=n_q_RC0402FR-07130RL     | JLCPCB      |
+| U1 (NXP NT3H2111W0FHKH)           |  NT3H2111W0FHKH             |  2         |    $1.2324       |    https://www.lcsc.com/pt/product-detail/C710403.html?s_z=n_q_NT3H2111W0FHKH       | JLCPCB      |
+| Total: $3,0869                    |
 
-Total estimated cost: $29.17
+JLCPCB quote for assembly of 2 boards + shipping (Global Standard Direct Line: $8.48) with -$10 coupon: $26.76
+<img width="1397" height="486" alt="{DEB36AE8-D00F-4259-A287-6ED29371B2AF}" src="https://github.com/user-attachments/assets/78debaf0-6e6f-4810-a422-83814d936cb9" />
+
+# Grand Total: $26.76
 
 ### Extras:
 
