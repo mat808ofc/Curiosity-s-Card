@@ -1,4 +1,5 @@
 # Curiosity's Card
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3f46ba08-893e-4130-a9b3-1e0cfecbd207" />
 
 ### About
 This is a custom business card with a nfc chip "NT3H2111W0FHKH", antenna "NXP's official Class 4 antenna" and a low-current 0603 package red LED, Vishay's "TLMS1000-GS15", which at 2mA (it's tested current for usage) only needs 1.75V (according to the Vf vs. If graphic in the datasheet). This is because the LED will work with the chip's energy harvesting feature, which will "harvest" energy from the nfc device (like a phone). The total voltage the chip can usually output with this technique is 2V, so the LED is inside the budget. I used the Ohm's Law to find the resistor value for the LED. 
